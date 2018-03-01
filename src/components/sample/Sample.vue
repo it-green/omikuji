@@ -31,6 +31,8 @@
             .card
                 h3 modal test
                 p main text
+
+
 </template>
 
 <script lang='ts'>
