@@ -18,7 +18,7 @@
 ## ビルド方法
 1. `$ npm run build`
 1. `$ npm run dev`
-1. ブラウザで [http://localhost:8000](http://localhost:8000) にアクセスする
+1. ブラウザで [http://localhnpm runost:8000](http://localhost:8000) にアクセスする
 
 ## Page追加機能
 Pugのページを `./scripts.sh` から追加できます
