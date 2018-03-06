@@ -2,8 +2,6 @@
 .vue-index
     .reactive-title {{ reactiveTitle() }}
     omikuji
-    sample
-
 </template>
 
 <script lang='ts'>
@@ -12,7 +10,7 @@ import VueUtil from '@/scripts/util/VueUtil';
 import RootVue from '@/components/base/RootVue';
 import Omikuji from '@/components/part/Omikuji.vue';
 
-
+import 'mdi/scss/materialdesignicons.scss';
 import Buefy from 'buefy';
 import 'buefy/lib/buefy.min.css';
 
